@@ -37,3 +37,4 @@ I spent a majority of my time working on the case! The case for this timer is a 
 <img height="300" alt="final" src="https://github.com/user-attachments/assets/b4061498-5818-4707-a4e9-7c0cd186d1de" />
 
 ### Total Time Spent: 16 hours
+** Note: Some of the components in the STEP file aren't exactly the ones I'll be using, since I couldn't find any models of them. The actual battery is taller and less wide, and the charger is wider.
