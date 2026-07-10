@@ -5,7 +5,7 @@ Tomato Time is a pomodoro timer that you can use to track your productivity! It 
 ##### 1 hour
 I drafted some ideas (designs, features, etc.) of things I wanted to try out in this project. I iterated with some sketches first, messing around with a food theme. In terms of features, I originally wanted to create an alarm clock but decided that a pomodoro timer would allow me to explore more on the software side of things while also learning more CAD. From there, I narrowed down my ideas and sketched out a more 3D design to lay out my project more. [Sketch below]
 
-<img width="300" alt="sketch" src="https://github.com/user-attachments/assets/c0a066c5-f25c-4f05-b03e-79ec2c373f0f" />
+<img width="600" alt="sketch" src="https://github.com/user-attachments/assets/4c3e7179-7854-4a8c-ade4-b2ee076e5ed6" />
 
 ### Components:
 ##### 4 hours
